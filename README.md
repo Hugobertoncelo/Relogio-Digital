@@ -1,4 +1,4 @@
-# relogio-digital-js
+# relogio-digital
 
 
 <h1 align="center"> Relógio Digital </h1>
@@ -35,6 +35,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 Relógio digital dinâmico com HTML, CSS e JAVASCRIPT
+
+[acesse o projeto finalizado](https://hugobertoncelo.github.io/Relogio-Digital/)
 
 ## :memo: Licença
 
