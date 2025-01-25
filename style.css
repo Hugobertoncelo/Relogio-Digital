@@ -47,3 +47,22 @@ body {
 .relogio span.tempo {
   font-size: 10px;
 }
+
+@media (max-width: 500px) {
+  .relogio {
+      flex-direction: column; /* Stack divs vertically */
+      height: auto;
+      aspect-ratio: 1 / 1;
+  }
+  .relogio div{
+      margin: 10px 0;
+      width: 100%;
+  }
+  .relogio span {
+      font-size: 2rem; /* Reduce font size on smaller screens */
+  }
+
+  .relogio span.tempo {
+      font-size: 0.7rem;
+  }
+}
